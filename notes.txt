@@ -1,0 +1,7 @@
+# My Git notes:
+1. Git basics
+2. Staging Area
+3. Git commit
+4. Reset/Restore
+5. Git push
+6. Git clone
